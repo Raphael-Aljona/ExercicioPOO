@@ -1,0 +1,14 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\bin\Debug\net9.0\ExerciciosP.O.O.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\bin\Debug\net9.0\ExerciciosP.O.O.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\bin\Debug\net9.0\ExerciciosP.O.O.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\bin\Debug\net9.0\ExerciciosP.O.O.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\bin\Debug\net9.0\ExerciciosP.O.O.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\refint\ExerciciosP.O.O.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ExerciciosP.O.O.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosP.O.O\obj\Debug\net9.0\ref\ExerciciosP.O.O.dll
