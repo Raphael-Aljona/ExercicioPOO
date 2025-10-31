@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\bin\Debug\net9.0\SistemaVeiculos.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\bin\Debug\net9.0\SistemaVeiculos.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\bin\Debug\net9.0\SistemaVeiculos.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\bin\Debug\net9.0\SistemaVeiculos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\bin\Debug\net9.0\SistemaVeiculos.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\refint\SistemaVeiculos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\SistemaVeiculos.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaVeiculos\obj\Debug\net9.0\ref\SistemaVeiculos.dll

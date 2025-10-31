@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\bin\Debug\net9.0\Cursos.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\bin\Debug\net9.0\Cursos.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\bin\Debug\net9.0\Cursos.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\bin\Debug\net9.0\Cursos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\bin\Debug\net9.0\Cursos.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\refint\Cursos.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\Cursos.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\Cursos\obj\Debug\net9.0\ref\Cursos.dll

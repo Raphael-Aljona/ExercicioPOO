@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\bin\Debug\net9.0\SistemaFuncionarios.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\bin\Debug\net9.0\SistemaFuncionarios.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\bin\Debug\net9.0\SistemaFuncionarios.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\bin\Debug\net9.0\SistemaFuncionarios.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\bin\Debug\net9.0\SistemaFuncionarios.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\refint\SistemaFuncionarios.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\SistemaFuncionarios.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaFuncionarios\obj\Debug\net9.0\ref\SistemaFuncionarios.dll

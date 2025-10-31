@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\bin\Debug\net9.0\SistemaJogo.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\bin\Debug\net9.0\SistemaJogo.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\bin\Debug\net9.0\SistemaJogo.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\bin\Debug\net9.0\SistemaJogo.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\bin\Debug\net9.0\SistemaJogo.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\refint\SistemaJogo.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\SistemaJogo.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaJogo\obj\Debug\net9.0\ref\SistemaJogo.dll

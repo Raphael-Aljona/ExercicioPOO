@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\bin\Debug\net9.0\SistemaAnimais.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\bin\Debug\net9.0\SistemaAnimais.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\bin\Debug\net9.0\SistemaAnimais.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\bin\Debug\net9.0\SistemaAnimais.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\bin\Debug\net9.0\SistemaAnimais.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\refint\SistemaAnimais.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\SistemaAnimais.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\ExerciciosHerancaAbstracao\SistemaAnimais\obj\Debug\net9.0\ref\SistemaAnimais.dll
