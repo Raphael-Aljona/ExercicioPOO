@@ -1,0 +1,19 @@
+@model SistemaVeiculosMVC.Models.Veiculo
+
+<h2>Cadastrar Funcionário</h2>
+
+<form asp-action="Criar">
+    <label for="modelo">Modelo:</label>
+    <input type="text" name="modelo" class="form-control">
+
+    <label for="ano">Ano:</label>
+    <input type="text" name="ano" class="form-control">
+
+    <label for="veiculo">Tipo do Veiculo:</label>
+    <select name="veiculo" id="">
+        <option value="Carro">Carro</option>
+        <option value="Moto">Moto</option>
+    </select>
+
+    <button type="submit" class="btn btn-sucess" >Salvar novo veiculo</button>
+</form>

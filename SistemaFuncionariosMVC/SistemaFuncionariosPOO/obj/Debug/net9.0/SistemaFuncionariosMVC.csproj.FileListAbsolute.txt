@@ -1,0 +1,15 @@
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\bin\Debug\net9.0\SistemaFuncionariosMVC.exe
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\bin\Debug\net9.0\SistemaFuncionariosMVC.deps.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\bin\Debug\net9.0\SistemaFuncionariosMVC.runtimeconfig.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\bin\Debug\net9.0\SistemaFuncionariosMVC.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\bin\Debug\net9.0\SistemaFuncionariosMVC.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.AssemblyInfoInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.AssemblyInfo.cs
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.csproj.CoreCompileInputs.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.sourcelink.json
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\refint\SistemaFuncionariosMVC.dll
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.pdb
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\SistemaFuncionariosMVC.genruntimeconfig.cache
+C:\Users\53789144851\Desktop\Dev\ExerciciosPOO\SistemaFuncionariosMVC\obj\Debug\net9.0\ref\SistemaFuncionariosMVC.dll

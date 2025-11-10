@@ -1,0 +1,19 @@
+@model SistemaFuncioanrioMVC.Models.Funcionario
+
+<h2>Cadastrar Funcionário</h2>
+
+<form asp-action="Criar">
+    <label for="nome">Nome:</label>
+    <input type="text" name="nome" class="form-control">
+
+    <label for="salarioBase">Salário Base</label>
+    <input type="number" name="salarioBase" class="form-control"> @*step - controla casas decimais*@
+    
+    <label for="cargo">Cargo</label>
+    <select name="cargo" id="">
+        <option value="Gerente">Gerente</option>
+        <option value="Vendedor">Vendedor</option>
+    </select>
+
+    <button type="submit" class="btn btn-sucess">Salvar</button>
+</form>

@@ -1,0 +1,26 @@
+@model List<SistemaVeiculosMVC.Models.Veiculo>
+
+<h2>Funcionários</h2>
+
+<a asp-action="Criar" class="btn btn-primary">Novo veiculo</a>
+
+<table>
+    <tr>
+        <th>Modelo</th>
+        <th>Ano</th>
+        <th>Veiculo</th>
+        <th>Custo da Revisão</th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var veiculo in Model)
+    {
+        <tr>
+            <td>@veiculo.modelo</td>
+            <td>@veiculo.ano</td>
+            <td>@veiculo.GetType().Name</td>
+            <td>@veiculo.CalcularRevisao()</td>
+            <td><a asp-action="Deletar" asp-route-id="@veiculo.id">Excluir</a></td>
+        </tr>
+    }
+</table>
